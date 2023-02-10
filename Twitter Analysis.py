@@ -28,7 +28,7 @@ from sklearn.base import TransformerMixin
 st.sidebar.title("Semi-supervised learning")
 
 st.subheader('Assignment 3(TIMG 5301 - Group 8)')
-st.markdown(f'<h1 style="color:#00008B;font-size:20px;">{"Raksha, Vindhya, Sahil, Ashwani"}</h1>',unsafe_allow_html=True)
+st.markdown(f'<h1 style="color:#00008B;font-size:20px;">{"Vindhya"}</h1>',unsafe_allow_html=True)
 
 ############################### 2. Data understanding and preparation ############################
 
