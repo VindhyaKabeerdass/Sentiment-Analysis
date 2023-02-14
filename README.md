@@ -11,11 +11,17 @@ Approximately 1000 tweets was scrapped from Twitter and around 10% of tweets wer
 Methodology:
 
 Semi-supervided model was used to label the remaining tweets
+
 Stopwords were defined to reduce noise in the data and improve teh accuracy of text classification
+
 Base estimator was created 
+
 A logistic regression model is built that uses the base esitmator 
+
 Pipleine was created to display the predicted labels as positive and negative  
+
 Streamlit was used to deploy the code
+
 A interactive application was created to assess the given tweet as positive or negative based on the idea it imposes 
 
 Conclusion:
