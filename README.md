@@ -1,4 +1,4 @@
-   **Social-Media-Analysis-Twitter**
+   **Sentiment-Analysis-Twitter**
 
 
 **Objective:**
